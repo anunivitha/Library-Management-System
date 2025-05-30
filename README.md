@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212223040016
+# Name: Anu Nivitha U
+# Date: 12/03/2025
 
 
 # AIM:
