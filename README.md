@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="827" alt="Screenshot 2025-05-30 at 9 23 27 PM" src="https://github.com/user-attachments/assets/983d0b6e-e694-4f29-8cec-15690883f332" />
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="831" alt="Screenshot 2025-05-30 at 9 23 33 PM" src="https://github.com/user-attachments/assets/0b01dd66-c922-40fb-a402-356903b803d5" />
 
 
 
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="832" alt="Screenshot 2025-05-30 at 9 23 40 PM" src="https://github.com/user-attachments/assets/4b319737-683b-4f79-9d4b-4f1d5b718b4a" />
 
 
 
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="828" alt="Screenshot 2025-05-30 at 9 23 46 PM" src="https://github.com/user-attachments/assets/181f5a31-11f4-4a1f-871a-09175b4fa478" />
 
 
 
@@ -117,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="770" alt="Screenshot 2025-05-30 at 9 23 53 PM" src="https://github.com/user-attachments/assets/c8f78c1c-bc88-4c15-b36f-73d4c22313e9" />
 
 
 
